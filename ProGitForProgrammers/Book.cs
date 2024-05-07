@@ -8,6 +8,8 @@ namespace ProGitForProgrammers
         public List<string> Authors { get; set; }
 
         public DateTime PublicationDate { get; set; }
+
+        fix from Book2 branch
     }
 }
 
